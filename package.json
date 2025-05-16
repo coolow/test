@@ -16,7 +16,8 @@
     "tsx": "^4.19.4"
   },
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "redis": "^5.0.1"
   },
   "type": "module"
 }
