@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "live-server --host=localhost src/client",
+    "start": "live-server --https=ssl/https.conf.js src/client",
     "serve": "npx tsx src/server/index.mts"
   },
   "keywords": [],
